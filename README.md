@@ -1,2 +1,2 @@
-# pengecekan-ruang-kuliah
+# penjadwalan-ruang-kuliah
 PBL pak resa
